@@ -14,3 +14,6 @@ Simple calculator web application using HTML, CSS, and JavaScript.
 - JavaScript
 - ## Screenshot
 - ![Calculator App](Screenshot.png)
+
+- ## Live Demo
+-  https://ajaiswal-u.github.io/javascript-calculator/
